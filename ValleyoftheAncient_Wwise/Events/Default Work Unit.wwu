@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{317984EC-46D5-44FB-865F-666DD6E95D6F}" SchemaVersion="119">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{317984EC-46D5-44FB-865F-666DD6E95D6F}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="Play_Events" ID="{20EA7DA4-1FE9-497A-B75D-DFADF4260F83}" ShortID="433824949">
+					<ChildrenList>
+						<Event Name="Play_S_AnimationPortal_01" ID="{5A287577-D373-425C-89D1-DA6F0594A484}">
+							<ChildrenList>
+								<Action Name="" ID="{772F8328-75E2-4F7F-B47B-57EDB4673538}" ShortID="763775117">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="S_AnimationPortal_01" ID="{BDF8D69C-15BB-4274-821E-74A5844A955D}" WorkUnitID="{BE61380D-99B0-4776-A12B-98616A4534E7}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_2D_Map01_Ambience_Loop" ID="{345B9DB2-910E-4EE0-BC39-EBF7FB9AB5CD}">
+							<ChildrenList>
+								<Action Name="" ID="{FE850A2A-45DA-4E29-A54D-543DE2F65C12}" ShortID="1015029601">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="2D_Map01_Ambience_Loop" ID="{D86D0668-2C8C-4E1F-BE18-36D86DBD7D58}" WorkUnitID="{BE61380D-99B0-4776-A12B-98616A4534E7}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_PC_Skill_Hit" ID="{016B3D46-908E-4F3E-93C1-DF71845D01AF}">
+							<ChildrenList>
+								<Action Name="" ID="{8140B862-60EF-4A4B-8C78-07587A60DB2D}" ShortID="1069278451">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="PC_Skill_Hit" ID="{9ECE7E3B-1E4C-4FA4-8B31-E43839F5E071}" WorkUnitID="{BE61380D-99B0-4776-A12B-98616A4534E7}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_PC_Skill_Projectile" ID="{47CE7E1C-B672-494D-83B0-E82D5B02C8F8}">
+							<ChildrenList>
+								<Action Name="" ID="{11BF3F92-DA6B-4506-8D16-51D3DAC46B8C}" ShortID="544170550">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="PC_Skill_Projectile" ID="{74DC23B1-BDB9-4759-A8D7-FBFDFD3058EF}" WorkUnitID="{BE61380D-99B0-4776-A12B-98616A4534E7}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_3D_Map01_Ambience" ID="{E71DC2A9-040C-455D-A5CD-23630061009B}">
+							<ChildrenList>
+								<Action Name="" ID="{BCC7E427-BCF6-496F-ABAA-22731310F58C}" ShortID="359976116">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="3D_Map01_Ambience" ID="{3972DA9D-97AE-4CFC-94AB-2CEE01FF6358}" WorkUnitID="{BE61380D-99B0-4776-A12B-98616A4534E7}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_2D_Map02_Ambience_Loop" ID="{4771711F-BB47-4C07-AE2D-3046CB22BFED}">
+							<ChildrenList>
+								<Action Name="" ID="{B5849E4B-6631-44BF-BF43-456B7596712F}" ShortID="907085960">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="2D_Map02_Ambience_Loop" ID="{A8B238FD-E9B3-4998-81E2-511F57A233BB}" WorkUnitID="{BE61380D-99B0-4776-A12B-98616A4534E7}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_PC_Armor" ID="{55D7A62B-6634-42F8-A90A-4EF87BCD551E}">
+							<ChildrenList>
+								<Action Name="" ID="{889691AE-90C2-47A9-BE5E-370DF490FEC2}" ShortID="295052578">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="PC_Armor" ID="{16AABE27-27F2-492D-8B7C-1244915F3150}" WorkUnitID="{BE61380D-99B0-4776-A12B-98616A4534E7}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_PC_Skill_Shot" ID="{5319D05E-BC1D-4CD6-AD29-19324F9CB37B}">
+							<ChildrenList>
+								<Action Name="" ID="{BC355DA6-F215-4647-B038-DBB1EE87928C}" ShortID="316229527">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="PC_Skill_Shot" ID="{B129E68B-4E8F-4446-AE0D-536BDB26A19E}" WorkUnitID="{BE61380D-99B0-4776-A12B-98616A4534E7}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_PC_Skill_Cast" ID="{DE71FF76-D439-4218-883F-68980499D0CF}">
+							<ChildrenList>
+								<Action Name="" ID="{23005E71-2E8D-48B6-9B51-FEC89681B14F}" ShortID="79694532">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="PC_Skill_Cast" ID="{C48C9EFE-A8A7-405A-8D62-BBF055BEEC3A}" WorkUnitID="{BE61380D-99B0-4776-A12B-98616A4534E7}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_Teleport_Loop" ID="{180A5464-CF1D-463C-8B00-0D7E15653275}">
+							<ChildrenList>
+								<Action Name="" ID="{488295E4-1F82-4526-BA57-C02CE2BA565D}" ShortID="200118733">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Teleport_Loop" ID="{CB8B81C6-87EA-4A13-B958-603495B6E958}" WorkUnitID="{BE61380D-99B0-4776-A12B-98616A4534E7}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_3D_Map02_Ambience" ID="{865B390A-7B0C-4B4D-BDF1-660CC7FCCDD2}">
+							<ChildrenList>
+								<Action Name="" ID="{50790BE0-046E-4FA5-B775-1BB4ED0782EE}" ShortID="140900785">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="3D_Map02_Ambience" ID="{EF0467A4-EB53-4BDC-9833-7629BD5888CA}" WorkUnitID="{BE61380D-99B0-4776-A12B-98616A4534E7}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_Fire_Loop" ID="{66C314EC-925C-428E-8B1E-9CA9745CF899}">
+							<ChildrenList>
+								<Action Name="" ID="{184116B1-82D1-4F68-9ACF-95CAE7F27A30}" ShortID="988984824">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Fire_Loop" ID="{AD69E169-2321-4E20-965D-9458B1082233}" WorkUnitID="{BE61380D-99B0-4776-A12B-98616A4534E7}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_PC_Footstpes" ID="{CD7D3C34-2003-4A9F-B9FF-53FBA1884D88}">
+							<ChildrenList>
+								<Action Name="" ID="{1954A3A2-C366-4674-950E-7FF5841FE8A0}" ShortID="430146748">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="PC_Footstpes" ID="{EBC15756-E306-4714-9EB7-A56BADCBBD71}" WorkUnitID="{BE61380D-99B0-4776-A12B-98616A4534E7}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_PC_Skill_Cast_Loop" ID="{8BE01D38-5FC5-4CE6-9A0F-9DC3DE783AB7}">
+							<ChildrenList>
+								<Action Name="" ID="{A9FF37DA-E38C-4AB4-B0C4-EA2E7C6351D9}" ShortID="845593693">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="PC_Skill_Cast_Loop" ID="{6A811217-BEC1-4308-90CF-4B38945C8B4C}" WorkUnitID="{BE61380D-99B0-4776-A12B-98616A4534E7}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_S_AnimationFadeOut_02" ID="{0A6DCC7A-461A-49DB-BF2B-1BAD56BA7670}">
+							<ChildrenList>
+								<Action Name="" ID="{B3D449EB-A1CE-4E31-896B-202F3ADEE982}" ShortID="698614971">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="S_AnimationFadeOut_02" ID="{B9D8FE08-51FF-4BCE-A6DA-EAD15097ECCA}" WorkUnitID="{BE61380D-99B0-4776-A12B-98616A4534E7}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

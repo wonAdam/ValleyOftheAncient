@@ -1,0 +1,1080 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "150",
+  "SoundBanks": [
+   {
+    "Id": "1584861542",
+    "Type": "User",
+    "GUID": "{06E0C42E-B84B-463D-80C1-55C828A882EB}",
+    "Language": "SFX",
+    "Hash": "{48D0FDCB-E37A-F13D-3062-3ADE09F86156}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\SB",
+    "ShortName": "SB",
+    "Path": "SB.bnk",
+    "Media": [
+     {
+      "Id": "40562976",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "3D_Map02_Ambience_Loop_04.wav",
+      "CachePath": "SFX/3D_Map02_Ambience_Loop_04_818F3B66.wem"
+     },
+     {
+      "Id": "64788660",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "2D_Map01_Ambience_Loop_02_03.wav",
+      "CachePath": "SFX/2D_Map01_Ambience_Loop_02_03_818F3B66.wem"
+     },
+     {
+      "Id": "70996195",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Fire_Loop_01.wav",
+      "CachePath": "SFX/Fire_Loop_01_818F3B66.wem"
+     },
+     {
+      "Id": "80235698",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Footstep_Texture01_05.wav",
+      "CachePath": "SFX/Footstep_Texture01_05_818F3B66.wem"
+     },
+     {
+      "Id": "102252990",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Skill_Projectile_02.wav",
+      "CachePath": "SFX/Skill_Projectile_02_818F3B66.wem"
+     },
+     {
+      "Id": "110245815",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "2D_Map02_Ambience_Loop_02_01.wav",
+      "CachePath": "SFX/2D_Map02_Ambience_Loop_02_01_818F3B66.wem"
+     },
+     {
+      "Id": "120128966",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Skill_Projectile_03.wav",
+      "CachePath": "SFX/Skill_Projectile_03_818F3B66.wem"
+     },
+     {
+      "Id": "128094582",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "2D_Map02_Ambience_Loop_02_03.wav",
+      "CachePath": "SFX/2D_Map02_Ambience_Loop_02_03_818F3B66.wem"
+     },
+     {
+      "Id": "132085907",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Footstep_Boots01_04.wav",
+      "CachePath": "SFX/Footstep_Boots01_04_818F3B66.wem"
+     },
+     {
+      "Id": "144690714",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Footstep_Boots01_05.wav",
+      "CachePath": "SFX/Footstep_Boots01_05_818F3B66.wem"
+     },
+     {
+      "Id": "146584187",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Skill_Hit_ 02.wav",
+      "CachePath": "SFX/Skill_Hit_ 02_818F3B66.wem"
+     },
+     {
+      "Id": "164114561",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "2D_Map01_Ambience_Loop_01_03.wav",
+      "CachePath": "SFX/2D_Map01_Ambience_Loop_01_03_818F3B66.wem"
+     },
+     {
+      "Id": "179606090",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "3D_Map02_Ambience_Loop_03.wav",
+      "CachePath": "SFX/3D_Map02_Ambience_Loop_03_818F3B66.wem"
+     },
+     {
+      "Id": "196069735",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Footstep_Boots01_03.wav",
+      "CachePath": "SFX/Footstep_Boots01_03_818F3B66.wem"
+     },
+     {
+      "Id": "199155045",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Armor Foley_05.wav",
+      "CachePath": "SFX/Armor Foley_05_818F3B66.wem"
+     },
+     {
+      "Id": "200569020",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Skill_Cast_Loop_03.wav",
+      "CachePath": "SFX/Skill_Cast_Loop_03_818F3B66.wem"
+     },
+     {
+      "Id": "219880325",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Skill_Projectile_01.wav",
+      "CachePath": "SFX/Skill_Projectile_01_818F3B66.wem"
+     },
+     {
+      "Id": "226569377",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Footstep_Boots01_07.wav",
+      "CachePath": "SFX/Footstep_Boots01_07_818F3B66.wem"
+     },
+     {
+      "Id": "241388928",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Armor Foley_01.wav",
+      "CachePath": "SFX/Armor Foley_01_818F3B66.wem"
+     },
+     {
+      "Id": "243192686",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Footstep_Texture01_07.wav",
+      "CachePath": "SFX/Footstep_Texture01_07_818F3B66.wem"
+     },
+     {
+      "Id": "270630637",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Footstep_Texture01_01.wav",
+      "CachePath": "SFX/Footstep_Texture01_01_818F3B66.wem"
+     },
+     {
+      "Id": "277493211",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "2D_Map02_Ambience_Loop_02_02.wav",
+      "CachePath": "SFX/2D_Map02_Ambience_Loop_02_02_818F3B66.wem"
+     },
+     {
+      "Id": "293861200",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Footstep_Texture02_05.wav",
+      "CachePath": "SFX/Footstep_Texture02_05_818F3B66.wem"
+     },
+     {
+      "Id": "324364435",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Footstep_Texture02_06.wav",
+      "CachePath": "SFX/Footstep_Texture02_06_818F3B66.wem"
+     },
+     {
+      "Id": "356602993",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "2D_Map01_Ambience_Loop_02_02.wav",
+      "CachePath": "SFX/2D_Map01_Ambience_Loop_02_02_818F3B66.wem"
+     },
+     {
+      "Id": "357190279",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "S_AnimationPortal_01.wav",
+      "CachePath": "SFX/S_AnimationPortal_01_818F3B66.wem"
+     },
+     {
+      "Id": "365273511",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Armor Foley_04.wav",
+      "CachePath": "SFX/Armor Foley_04_818F3B66.wem"
+     },
+     {
+      "Id": "369564659",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "3D_Map02_Ambience_Loop_02.wav",
+      "CachePath": "SFX/3D_Map02_Ambience_Loop_02_818F3B66.wem"
+     },
+     {
+      "Id": "373262603",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Footstep_Texture02_01.wav",
+      "CachePath": "SFX/Footstep_Texture02_01_818F3B66.wem"
+     },
+     {
+      "Id": "377018277",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "2D_Map02_Ambience_Loop_03_01.wav",
+      "CachePath": "SFX/2D_Map02_Ambience_Loop_03_01_818F3B66.wem"
+     },
+     {
+      "Id": "380918109",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Skill_Hit_ 03.wav",
+      "CachePath": "SFX/Skill_Hit_ 03_818F3B66.wem"
+     },
+     {
+      "Id": "388327730",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "3D_Map02_Ambience_Loop_08.wav",
+      "CachePath": "SFX/3D_Map02_Ambience_Loop_08_818F3B66.wem"
+     },
+     {
+      "Id": "390593327",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "3D_Map02_Ambience_Loop_09.wav",
+      "CachePath": "SFX/3D_Map02_Ambience_Loop_09_818F3B66.wem"
+     },
+     {
+      "Id": "410568002",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Footstep_Texture01_02.wav",
+      "CachePath": "SFX/Footstep_Texture01_02_818F3B66.wem"
+     },
+     {
+      "Id": "445753361",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Skill_Cast_Loop_01.wav",
+      "CachePath": "SFX/Skill_Cast_Loop_01_818F3B66.wem"
+     },
+     {
+      "Id": "447012044",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "2D_Map02_Ambience_Loop_01_03.wav",
+      "CachePath": "SFX/2D_Map02_Ambience_Loop_01_03_818F3B66.wem"
+     },
+     {
+      "Id": "454550250",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Armor Foley_02.wav",
+      "CachePath": "SFX/Armor Foley_02_818F3B66.wem"
+     },
+     {
+      "Id": "470734958",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Footstep_Boots01_06.wav",
+      "CachePath": "SFX/Footstep_Boots01_06_818F3B66.wem"
+     },
+     {
+      "Id": "502251961",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "2D_Map02_Ambience_Loop_03_02.wav",
+      "CachePath": "SFX/2D_Map02_Ambience_Loop_03_02_818F3B66.wem"
+     },
+     {
+      "Id": "506833056",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Skill_Cast_01.wav",
+      "CachePath": "SFX/Skill_Cast_01_818F3B66.wem"
+     },
+     {
+      "Id": "527374628",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Skill_Shot_01.wav",
+      "CachePath": "SFX/Skill_Shot_01_818F3B66.wem"
+     },
+     {
+      "Id": "538028814",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Skill_Shot_02.wav",
+      "CachePath": "SFX/Skill_Shot_02_818F3B66.wem"
+     },
+     {
+      "Id": "563275689",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Footstep_Texture02_02.wav",
+      "CachePath": "SFX/Footstep_Texture02_02_818F3B66.wem"
+     },
+     {
+      "Id": "566118984",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "S_AnimationFadeOut_02.wav",
+      "CachePath": "SFX/S_AnimationFadeOut_02_818F3B66.wem"
+     },
+     {
+      "Id": "582557018",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Skill_Shot_03.wav",
+      "CachePath": "SFX/Skill_Shot_03_818F3B66.wem"
+     },
+     {
+      "Id": "645986931",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "3D_Map01_Ambience_01_02.wav",
+      "CachePath": "SFX/3D_Map01_Ambience_01_02_818F3B66.wem"
+     },
+     {
+      "Id": "650816160",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Footstep_Texture01_06.wav",
+      "CachePath": "SFX/Footstep_Texture01_06_818F3B66.wem"
+     },
+     {
+      "Id": "659608350",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Footstep_Texture01_04.wav",
+      "CachePath": "SFX/Footstep_Texture01_04_818F3B66.wem"
+     },
+     {
+      "Id": "664944771",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Armor Foley_03.wav",
+      "CachePath": "SFX/Armor Foley_03_818F3B66.wem"
+     },
+     {
+      "Id": "680013032",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "2D_Map02_Ambience_Loop_01_02.wav",
+      "CachePath": "SFX/2D_Map02_Ambience_Loop_01_02_818F3B66.wem"
+     },
+     {
+      "Id": "699593375",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "3D_Map02_Ambience_Loop_07.wav",
+      "CachePath": "SFX/3D_Map02_Ambience_Loop_07_818F3B66.wem"
+     },
+     {
+      "Id": "707385738",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "2D_Map01_Ambience_Loop_01_02.wav",
+      "CachePath": "SFX/2D_Map01_Ambience_Loop_01_02_818F3B66.wem"
+     },
+     {
+      "Id": "722814120",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Teleport_Loop_01.wav",
+      "CachePath": "SFX/Teleport_Loop_01_818F3B66.wem"
+     },
+     {
+      "Id": "726288091",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "3D_Map01_Ambience_01_01.wav",
+      "CachePath": "SFX/3D_Map01_Ambience_01_01_E47D7379.wem"
+     },
+     {
+      "Id": "734751421",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "3D_Map02_Ambience_Loop_06.wav",
+      "CachePath": "SFX/3D_Map02_Ambience_Loop_06_818F3B66.wem"
+     },
+     {
+      "Id": "754076131",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "2D_Map01_Ambience_Loop_02_01.wav",
+      "CachePath": "SFX/2D_Map01_Ambience_Loop_02_01_818F3B66.wem"
+     },
+     {
+      "Id": "780489615",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "2D_Map01_Ambience_Loop_01_01.wav",
+      "CachePath": "SFX/2D_Map01_Ambience_Loop_01_01_818F3B66.wem"
+     },
+     {
+      "Id": "781750763",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Skill_Cast_02.wav",
+      "CachePath": "SFX/Skill_Cast_02_818F3B66.wem"
+     },
+     {
+      "Id": "795906522",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "3D_Map02_Ambience_Loop_01.wav",
+      "CachePath": "SFX/3D_Map02_Ambience_Loop_01_818F3B66.wem"
+     },
+     {
+      "Id": "800853907",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "2D_Map02_Ambience_Loop_03_03.wav",
+      "CachePath": "SFX/2D_Map02_Ambience_Loop_03_03_818F3B66.wem"
+     },
+     {
+      "Id": "802063852",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Footstep_Boots01_01.wav",
+      "CachePath": "SFX/Footstep_Boots01_01_818F3B66.wem"
+     },
+     {
+      "Id": "896642150",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "2D_Map02_Ambience_Loop_01_01.wav",
+      "CachePath": "SFX/2D_Map02_Ambience_Loop_01_01_818F3B66.wem"
+     },
+     {
+      "Id": "928608727",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Footstep_Boots01_02.wav",
+      "CachePath": "SFX/Footstep_Boots01_02_818F3B66.wem"
+     },
+     {
+      "Id": "937452279",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Footstep_Texture01_03.wav",
+      "CachePath": "SFX/Footstep_Texture01_03_818F3B66.wem"
+     },
+     {
+      "Id": "954015879",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "3D_Map01_Ambience_01_03.wav",
+      "CachePath": "SFX/3D_Map01_Ambience_01_03_818F3B66.wem"
+     },
+     {
+      "Id": "964698149",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Skill_Hit_ 01.wav",
+      "CachePath": "SFX/Skill_Hit_ 01_818F3B66.wem"
+     },
+     {
+      "Id": "996980279",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "3D_Map02_Ambience_Loop_05.wav",
+      "CachePath": "SFX/3D_Map02_Ambience_Loop_05_818F3B66.wem"
+     },
+     {
+      "Id": "1006875835",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Footstep_Texture02_03.wav",
+      "CachePath": "SFX/Footstep_Texture02_03_818F3B66.wem"
+     },
+     {
+      "Id": "1016901836",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Skill_Cast_Loop_02.wav",
+      "CachePath": "SFX/Skill_Cast_Loop_02_818F3B66.wem"
+     },
+     {
+      "Id": "1026784446",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Skill_Cast_03.wav",
+      "CachePath": "SFX/Skill_Cast_03_818F3B66.wem"
+     },
+     {
+      "Id": "1049279678",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Footstep_Texture02_07.wav",
+      "CachePath": "SFX/Footstep_Texture02_07_818F3B66.wem"
+     },
+     {
+      "Id": "1059799545",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Footstep_Texture02_04.wav",
+      "CachePath": "SFX/Footstep_Texture02_04_818F3B66.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "784914450",
+      "Name": "Play_2D_Map01_Ambience_Loop",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Events\\Play_2D_Map01_Ambience_Loop",
+      "GUID": "{345B9DB2-910E-4EE0-BC39-EBF7FB9AB5CD}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "64788660"
+       },
+       {
+        "Id": "164114561"
+       },
+       {
+        "Id": "356602993"
+       },
+       {
+        "Id": "707385738"
+       },
+       {
+        "Id": "754076131"
+       },
+       {
+        "Id": "780489615"
+       }
+      ]
+     },
+     {
+      "Id": "1612719477",
+      "Name": "Play_2D_Map02_Ambience_Loop",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Events\\Play_2D_Map02_Ambience_Loop",
+      "GUID": "{4771711F-BB47-4C07-AE2D-3046CB22BFED}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "110245815"
+       },
+       {
+        "Id": "128094582"
+       },
+       {
+        "Id": "277493211"
+       },
+       {
+        "Id": "377018277"
+       },
+       {
+        "Id": "447012044"
+       },
+       {
+        "Id": "502251961"
+       },
+       {
+        "Id": "680013032"
+       },
+       {
+        "Id": "800853907"
+       },
+       {
+        "Id": "896642150"
+       }
+      ]
+     },
+     {
+      "Id": "3097540376",
+      "Name": "Play_3D_Map01_Ambience",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Events\\Play_3D_Map01_Ambience",
+      "GUID": "{E71DC2A9-040C-455D-A5CD-23630061009B}",
+      "DurationType": "OneShot",
+      "DurationMin": "5",
+      "DurationMax": "5",
+      "MediaRefs": [
+       {
+        "Id": "645986931"
+       },
+       {
+        "Id": "726288091"
+       },
+       {
+        "Id": "954015879"
+       }
+      ]
+     },
+     {
+      "Id": "1967265705",
+      "Name": "Play_3D_Map02_Ambience",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Events\\Play_3D_Map02_Ambience",
+      "GUID": "{865B390A-7B0C-4B4D-BDF1-660CC7FCCDD2}",
+      "DurationType": "OneShot",
+      "DurationMin": "10",
+      "DurationMax": "10",
+      "MediaRefs": [
+       {
+        "Id": "40562976"
+       },
+       {
+        "Id": "179606090"
+       },
+       {
+        "Id": "369564659"
+       },
+       {
+        "Id": "388327730"
+       },
+       {
+        "Id": "390593327"
+       },
+       {
+        "Id": "699593375"
+       },
+       {
+        "Id": "734751421"
+       },
+       {
+        "Id": "795906522"
+       },
+       {
+        "Id": "996980279"
+       }
+      ]
+     },
+     {
+      "Id": "1779335",
+      "Name": "Play_Fire_Loop",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Events\\Play_Fire_Loop",
+      "GUID": "{66C314EC-925C-428E-8B1E-9CA9745CF899}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "70996195"
+       }
+      ]
+     },
+     {
+      "Id": "3310393073",
+      "Name": "Play_PC_Armor",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Events\\Play_PC_Armor",
+      "GUID": "{55D7A62B-6634-42F8-A90A-4EF87BCD551E}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.9386683",
+      "DurationMax": "1.116271",
+      "MediaRefs": [
+       {
+        "Id": "199155045"
+       },
+       {
+        "Id": "241388928"
+       },
+       {
+        "Id": "365273511"
+       },
+       {
+        "Id": "454550250"
+       },
+       {
+        "Id": "664944771"
+       }
+      ]
+     },
+     {
+      "Id": "634505947",
+      "Name": "Play_PC_Footstpes",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Events\\Play_PC_Footstpes",
+      "GUID": "{CD7D3C34-2003-4A9F-B9FF-53FBA1884D88}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.3174957",
+      "DurationMax": "0.35637692",
+      "MediaRefs": [
+       {
+        "Id": "132085907"
+       },
+       {
+        "Id": "144690714"
+       },
+       {
+        "Id": "196069735"
+       },
+       {
+        "Id": "226569377"
+       },
+       {
+        "Id": "470734958"
+       },
+       {
+        "Id": "802063852"
+       },
+       {
+        "Id": "928608727"
+       }
+      ],
+      "SwitchContainers": [
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "2581548564",
+         "Id": "3143273520",
+         "GUID": "{5FD8BF1A-94E5-41AD-AA5E-F2960ACD89DB}",
+         "Default": "true"
+        },
+        "MediaRefs": [
+         {
+          "Id": "80235698"
+         },
+         {
+          "Id": "243192686"
+         },
+         {
+          "Id": "270630637"
+         },
+         {
+          "Id": "410568002"
+         },
+         {
+          "Id": "650816160"
+         },
+         {
+          "Id": "659608350"
+         },
+         {
+          "Id": "937452279"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "2581548564",
+         "Id": "3143273523",
+         "GUID": "{DD67C586-FED1-4D48-AE6C-B0A2A5F59F4D}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "293861200"
+         },
+         {
+          "Id": "324364435"
+         },
+         {
+          "Id": "373262603"
+         },
+         {
+          "Id": "563275689"
+         },
+         {
+          "Id": "1006875835"
+         },
+         {
+          "Id": "1049279678"
+         },
+         {
+          "Id": "1059799545"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "2581548564",
+         "Id": "3143273520",
+         "GUID": "{5FD8BF1A-94E5-41AD-AA5E-F2960ACD89DB}",
+         "Default": "true"
+        },
+        "MediaRefs": [
+         {
+          "Id": "80235698"
+         },
+         {
+          "Id": "243192686"
+         },
+         {
+          "Id": "270630637"
+         },
+         {
+          "Id": "410568002"
+         },
+         {
+          "Id": "650816160"
+         },
+         {
+          "Id": "659608350"
+         },
+         {
+          "Id": "937452279"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "2581548564",
+         "Id": "3143273523",
+         "GUID": "{DD67C586-FED1-4D48-AE6C-B0A2A5F59F4D}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "293861200"
+         },
+         {
+          "Id": "324364435"
+         },
+         {
+          "Id": "373262603"
+         },
+         {
+          "Id": "563275689"
+         },
+         {
+          "Id": "1006875835"
+         },
+         {
+          "Id": "1049279678"
+         },
+         {
+          "Id": "1059799545"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "Id": "3045213307",
+      "Name": "Play_PC_Skill_Cast",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Events\\Play_PC_Skill_Cast",
+      "GUID": "{DE71FF76-D439-4218-883F-68980499D0CF}",
+      "DurationType": "OneShot",
+      "DurationMin": "5.514583",
+      "DurationMax": "5.514583",
+      "MediaRefs": [
+       {
+        "Id": "506833056"
+       },
+       {
+        "Id": "781750763"
+       },
+       {
+        "Id": "1026784446"
+       }
+      ]
+     },
+     {
+      "Id": "1025555352",
+      "Name": "Play_PC_Skill_Cast_Loop",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Events\\Play_PC_Skill_Cast_Loop",
+      "GUID": "{8BE01D38-5FC5-4CE6-9A0F-9DC3DE783AB7}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "200569020"
+       },
+       {
+        "Id": "445753361"
+       },
+       {
+        "Id": "1016901836"
+       }
+      ]
+     },
+     {
+      "Id": "606933137",
+      "Name": "Play_PC_Skill_Hit",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Events\\Play_PC_Skill_Hit",
+      "GUID": "{016B3D46-908E-4F3E-93C1-DF71845D01AF}",
+      "DurationType": "OneShot",
+      "DurationMin": "5",
+      "DurationMax": "5",
+      "MediaRefs": [
+       {
+        "Id": "146584187"
+       },
+       {
+        "Id": "380918109"
+       },
+       {
+        "Id": "964698149"
+       }
+      ]
+     },
+     {
+      "Id": "1944915683",
+      "Name": "Play_PC_Skill_Projectile",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Events\\Play_PC_Skill_Projectile",
+      "GUID": "{47CE7E1C-B672-494D-83B0-E82D5B02C8F8}",
+      "DurationType": "OneShot",
+      "DurationMin": "5.015",
+      "DurationMax": "5.015",
+      "MediaRefs": [
+       {
+        "Id": "102252990"
+       },
+       {
+        "Id": "120128966"
+       },
+       {
+        "Id": "219880325"
+       }
+      ]
+     },
+     {
+      "Id": "3656471518",
+      "Name": "Play_PC_Skill_Shot",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Events\\Play_PC_Skill_Shot",
+      "GUID": "{5319D05E-BC1D-4CD6-AD29-19324F9CB37B}",
+      "DurationType": "OneShot",
+      "DurationMin": "5",
+      "DurationMax": "5",
+      "MediaRefs": [
+       {
+        "Id": "527374628"
+       },
+       {
+        "Id": "538028814"
+       },
+       {
+        "Id": "582557018"
+       }
+      ]
+     },
+     {
+      "Id": "717465561",
+      "Name": "Play_S_AnimationFadeOut_02",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Events\\Play_S_AnimationFadeOut_02",
+      "GUID": "{0A6DCC7A-461A-49DB-BF2B-1BAD56BA7670}",
+      "DurationType": "OneShot",
+      "DurationMin": "10",
+      "DurationMax": "10",
+      "MediaRefs": [
+       {
+        "Id": "566118984"
+       }
+      ]
+     },
+     {
+      "Id": "2011390394",
+      "Name": "Play_S_AnimationPortal_01",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Events\\Play_S_AnimationPortal_01",
+      "GUID": "{5A287577-D373-425C-89D1-DA6F0594A484}",
+      "DurationType": "OneShot",
+      "DurationMin": "10",
+      "DurationMax": "10",
+      "MediaRefs": [
+       {
+        "Id": "357190279"
+       }
+      ]
+     },
+     {
+      "Id": "4098890576",
+      "Name": "Play_Teleport_Loop",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Events\\Play_Teleport_Loop",
+      "GUID": "{180A5464-CF1D-463C-8B00-0D7E15653275}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "722814120"
+       }
+      ]
+     }
+    ],
+    "SwitchGroups": [
+     {
+      "Id": "2581548564",
+      "Name": "Foosteps_Texture",
+      "ObjectPath": "\\Switches\\Default Work Unit\\Foosteps_Texture",
+      "GUID": "{48B9DB9A-DDA1-4B11-B59B-CA864B0B8469}",
+      "Switches": [
+       {
+        "Id": "3143273520",
+        "Name": "Footsteps_Texture_01",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Foosteps_Texture\\Footsteps_Texture_01",
+        "GUID": "{5FD8BF1A-94E5-41AD-AA5E-F2960ACD89DB}"
+       },
+       {
+        "Id": "3143273523",
+        "Name": "Footsteps_Texture_02",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Foosteps_Texture\\Footsteps_Texture_02",
+        "GUID": "{DD67C586-FED1-4D48-AE6C-B0A2A5F59F4D}"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{D42D42A9-F818-5290-E153-C9E62AA53D40}"
+ }
+}

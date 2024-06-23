@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{43C5A403-5A01-4959-9ECE-9EC94A4B2899}" SchemaVersion="119">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{43C5A403-5A01-4959-9ECE-9EC94A4B2899}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="SB" ID="{06E0C42E-B84B-463D-80C1-55C828A882EB}">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="10"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+					<ObjectInclusionList>
+						<ObjectRef Name="Play_Events" ID="{20EA7DA4-1FE9-497A-B75D-DFADF4260F83}" WorkUnitID="{317984EC-46D5-44FB-865F-666DD6E95D6F}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Actor_Mixer" ID="{2158DFB4-A12A-4F6E-A535-D82BD29ADA09}" WorkUnitID="{BE61380D-99B0-4776-A12B-98616A4534E7}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>
