@@ -1,7 +1,7 @@
 # GITIGNORE template for Wwise Project
 
 .backup*
-.cache*
+# .cache*
 *.akd
 *.prof
 *.validationcache
