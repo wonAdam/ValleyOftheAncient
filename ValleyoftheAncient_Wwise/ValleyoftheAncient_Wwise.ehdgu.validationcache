@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="119">
+	<ValidationCacheItem File="C:\Users\ehdgu\OneDrive\문서\WwiseProjects\ValleyoftheAncient_Wwise\Virtual Acoustics\Factory Acoustic Textures.wwu" DateLow="1717235692" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\OneDrive\문서\WwiseProjects\ValleyoftheAncient_Wwise\Virtual Acoustics\Default Work Unit.wwu" DateLow="1719116877" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\OneDrive\문서\WwiseProjects\ValleyoftheAncient_Wwise\ValleyoftheAncient_Wwise.wproj" DateLow="1719116877" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\OneDrive\문서\WwiseProjects\ValleyoftheAncient_Wwise\Triggers\Default Work Unit.wwu" DateLow="1719116877" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\OneDrive\문서\WwiseProjects\ValleyoftheAncient_Wwise\Switches\Default Work Unit.wwu" DateLow="1719116877" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\OneDrive\문서\WwiseProjects\ValleyoftheAncient_Wwise\States\Default Work Unit.wwu" DateLow="1719116877" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\OneDrive\문서\WwiseProjects\ValleyoftheAncient_Wwise\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1719116877" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\OneDrive\문서\WwiseProjects\ValleyoftheAncient_Wwise\SoundBanks\Default Work Unit.wwu" DateLow="1719116877" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\OneDrive\문서\WwiseProjects\ValleyoftheAncient_Wwise\Queries\Factory Queries.wwu" DateLow="1717235692" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\OneDrive\문서\WwiseProjects\ValleyoftheAncient_Wwise\Queries\Default Work Unit.wwu" DateLow="1719116877" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\OneDrive\문서\WwiseProjects\ValleyoftheAncient_Wwise\Presets\Factory Spatial Audio.wwu" DateLow="1717235692" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\OneDrive\문서\WwiseProjects\ValleyoftheAncient_Wwise\Presets\Factory Reflect.wwu" DateLow="1717235715" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\OneDrive\문서\WwiseProjects\ValleyoftheAncient_Wwise\Presets\Default Work Unit.wwu" DateLow="1719116877" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\OneDrive\문서\WwiseProjects\ValleyoftheAncient_Wwise\Modulators\Default Work Unit.wwu" DateLow="1719116877" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\OneDrive\문서\WwiseProjects\ValleyoftheAncient_Wwise\Mixing Sessions\Default Work Unit.wwu" DateLow="1719116877" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\OneDrive\문서\WwiseProjects\ValleyoftheAncient_Wwise\Metadata\Default Work Unit.wwu" DateLow="1719116877" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\OneDrive\문서\WwiseProjects\ValleyoftheAncient_Wwise\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1719116877" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\OneDrive\문서\WwiseProjects\ValleyoftheAncient_Wwise\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1719116877" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\OneDrive\문서\WwiseProjects\ValleyoftheAncient_Wwise\Game Parameters\Factory Soundseed Air Game Syncs.wwu" DateLow="1717235716" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\OneDrive\문서\WwiseProjects\ValleyoftheAncient_Wwise\Game Parameters\Default Work Unit.wwu" DateLow="1719116877" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\OneDrive\문서\WwiseProjects\ValleyoftheAncient_Wwise\Events\Default Work Unit.wwu" DateLow="1719116877" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\OneDrive\문서\WwiseProjects\ValleyoftheAncient_Wwise\Effects\Factory Reflect.wwu" DateLow="1717235715" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\OneDrive\문서\WwiseProjects\ValleyoftheAncient_Wwise\Effects\Factory McDSP Effects.wwu" DateLow="1717235720" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\OneDrive\문서\WwiseProjects\ValleyoftheAncient_Wwise\Effects\Factory Mastering Suite.wwu" DateLow="1717235714" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\OneDrive\문서\WwiseProjects\ValleyoftheAncient_Wwise\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="1717235718" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\OneDrive\문서\WwiseProjects\ValleyoftheAncient_Wwise\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="1717235718" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\OneDrive\문서\WwiseProjects\ValleyoftheAncient_Wwise\Effects\Factory iZotope Hybrid Reverb Effects.wwu" DateLow="1717235718" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\OneDrive\문서\WwiseProjects\ValleyoftheAncient_Wwise\Effects\Factory iZotope Filters.wwu" DateLow="1717235718" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\OneDrive\문서\WwiseProjects\ValleyoftheAncient_Wwise\Effects\Factory iZotope Dynamics.wwu" DateLow="1717235718" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\OneDrive\문서\WwiseProjects\ValleyoftheAncient_Wwise\Effects\Factory iZotope Delay.wwu" DateLow="1717235718" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\OneDrive\문서\WwiseProjects\ValleyoftheAncient_Wwise\Effects\Factory iZotope Box Modeler.wwu" DateLow="1717235718" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\OneDrive\문서\WwiseProjects\ValleyoftheAncient_Wwise\Effects\Factory Effects.wwu" DateLow="1717235692" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\OneDrive\문서\WwiseProjects\ValleyoftheAncient_Wwise\Effects\Factory Auro Headphone.wwu" DateLow="1717235716" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\OneDrive\문서\WwiseProjects\ValleyoftheAncient_Wwise\Effects\Default Work Unit.wwu" DateLow="1719116877" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\OneDrive\문서\WwiseProjects\ValleyoftheAncient_Wwise\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1719116877" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\OneDrive\문서\WwiseProjects\ValleyoftheAncient_Wwise\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1717235692" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\OneDrive\문서\WwiseProjects\ValleyoftheAncient_Wwise\Conversion Settings\Default Work Unit.wwu" DateLow="1719116877" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\OneDrive\문서\WwiseProjects\ValleyoftheAncient_Wwise\Control Surface Sessions\Default Work Unit.wwu" DateLow="1719116877" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\OneDrive\문서\WwiseProjects\ValleyoftheAncient_Wwise\Audio Devices\Default Work Unit.wwu" DateLow="1719116877" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\OneDrive\문서\WwiseProjects\ValleyoftheAncient_Wwise\Attenuations\Default Work Unit.wwu" DateLow="1719116877" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\OneDrive\문서\WwiseProjects\ValleyoftheAncient_Wwise\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1717235692" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\OneDrive\문서\WwiseProjects\ValleyoftheAncient_Wwise\Actor-Mixer Hierarchy\Factory Soundseed Air Objects.wwu" DateLow="1717235716" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\OneDrive\문서\WwiseProjects\ValleyoftheAncient_Wwise\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1719116877" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\Dev\ValleyOftheAncient\ValleyoftheAncient_Wwise\Virtual Acoustics\Factory Acoustic Textures.wwu" DateLow="1717235692" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\Dev\ValleyOftheAncient\ValleyoftheAncient_Wwise\Virtual Acoustics\Default Work Unit.wwu" DateLow="1719116877" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\Dev\ValleyOftheAncient\ValleyoftheAncient_Wwise\ValleyoftheAncient_Wwise.wproj" DateLow="1719133969" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\Dev\ValleyOftheAncient\ValleyoftheAncient_Wwise\ValleyoftheAncient_Wwise.ehdgu.wsettings" DateLow="1719134027" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\Dev\ValleyOftheAncient\ValleyoftheAncient_Wwise\Triggers\Default Work Unit.wwu" DateLow="1719116877" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\Dev\ValleyOftheAncient\ValleyoftheAncient_Wwise\Switches\Default Work Unit.wwu" DateLow="1719117280" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\Dev\ValleyOftheAncient\ValleyoftheAncient_Wwise\States\Default Work Unit.wwu" DateLow="1719116877" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\Dev\ValleyOftheAncient\ValleyoftheAncient_Wwise\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1719116877" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\Dev\ValleyOftheAncient\ValleyoftheAncient_Wwise\SoundBanks\Default Work Unit.wwu" DateLow="1719133451" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\Dev\ValleyOftheAncient\ValleyoftheAncient_Wwise\Queries\Factory Queries.wwu" DateLow="1717235692" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\Dev\ValleyOftheAncient\ValleyoftheAncient_Wwise\Queries\Default Work Unit.wwu" DateLow="1719116877" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\Dev\ValleyOftheAncient\ValleyoftheAncient_Wwise\Presets\Factory Spatial Audio.wwu" DateLow="1717235692" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\Dev\ValleyOftheAncient\ValleyoftheAncient_Wwise\Presets\Factory Reflect.wwu" DateLow="1717235715" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\Dev\ValleyOftheAncient\ValleyoftheAncient_Wwise\Presets\Default Work Unit.wwu" DateLow="1719116877" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\Dev\ValleyOftheAncient\ValleyoftheAncient_Wwise\Modulators\Default Work Unit.wwu" DateLow="1719116877" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\Dev\ValleyOftheAncient\ValleyoftheAncient_Wwise\Mixing Sessions\Default Work Unit.wwu" DateLow="1719116877" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\Dev\ValleyOftheAncient\ValleyoftheAncient_Wwise\Metadata\Default Work Unit.wwu" DateLow="1719116877" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\Dev\ValleyOftheAncient\ValleyoftheAncient_Wwise\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1719116877" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\Dev\ValleyOftheAncient\ValleyoftheAncient_Wwise\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1719116877" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\Dev\ValleyOftheAncient\ValleyoftheAncient_Wwise\Game Parameters\Factory Soundseed Air Game Syncs.wwu" DateLow="1717235716" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\Dev\ValleyOftheAncient\ValleyoftheAncient_Wwise\Game Parameters\Default Work Unit.wwu" DateLow="1719116877" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\Dev\ValleyOftheAncient\ValleyoftheAncient_Wwise\Events\Default Work Unit.wwu" DateLow="1719133406" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\Dev\ValleyOftheAncient\ValleyoftheAncient_Wwise\Effects\Factory Reflect.wwu" DateLow="1717235715" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\Dev\ValleyOftheAncient\ValleyoftheAncient_Wwise\Effects\Factory McDSP Effects.wwu" DateLow="1717235720" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\Dev\ValleyOftheAncient\ValleyoftheAncient_Wwise\Effects\Factory Mastering Suite.wwu" DateLow="1717235714" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\Dev\ValleyOftheAncient\ValleyoftheAncient_Wwise\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="1717235718" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\Dev\ValleyOftheAncient\ValleyoftheAncient_Wwise\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="1717235718" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\Dev\ValleyOftheAncient\ValleyoftheAncient_Wwise\Effects\Factory iZotope Hybrid Reverb Effects.wwu" DateLow="1717235718" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\Dev\ValleyOftheAncient\ValleyoftheAncient_Wwise\Effects\Factory iZotope Filters.wwu" DateLow="1717235718" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\Dev\ValleyOftheAncient\ValleyoftheAncient_Wwise\Effects\Factory iZotope Dynamics.wwu" DateLow="1717235718" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\Dev\ValleyOftheAncient\ValleyoftheAncient_Wwise\Effects\Factory iZotope Delay.wwu" DateLow="1717235718" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\Dev\ValleyOftheAncient\ValleyoftheAncient_Wwise\Effects\Factory iZotope Box Modeler.wwu" DateLow="1717235718" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\Dev\ValleyOftheAncient\ValleyoftheAncient_Wwise\Effects\Factory Effects.wwu" DateLow="1717235692" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\Dev\ValleyOftheAncient\ValleyoftheAncient_Wwise\Effects\Factory Auro Headphone.wwu" DateLow="1717235716" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\Dev\ValleyOftheAncient\ValleyoftheAncient_Wwise\Effects\Default Work Unit.wwu" DateLow="1719116877" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\Dev\ValleyOftheAncient\ValleyoftheAncient_Wwise\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1719116877" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\Dev\ValleyOftheAncient\ValleyoftheAncient_Wwise\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1717235692" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\Dev\ValleyOftheAncient\ValleyoftheAncient_Wwise\Conversion Settings\Default Work Unit.wwu" DateLow="1719116877" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\Dev\ValleyOftheAncient\ValleyoftheAncient_Wwise\Control Surface Sessions\Default Work Unit.wwu" DateLow="1719116877" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\Dev\ValleyOftheAncient\ValleyoftheAncient_Wwise\Audio Devices\Default Work Unit.wwu" DateLow="1719116877" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\Dev\ValleyOftheAncient\ValleyoftheAncient_Wwise\Attenuations\Default Work Unit.wwu" DateLow="1719116877" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\Dev\ValleyOftheAncient\ValleyoftheAncient_Wwise\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1717235692" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\Dev\ValleyOftheAncient\ValleyoftheAncient_Wwise\Actor-Mixer Hierarchy\Factory Soundseed Air Objects.wwu" DateLow="1717235716" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\ehdgu\Dev\ValleyOftheAncient\ValleyoftheAncient_Wwise\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1719133370" DateHigh="0"/>
+</ValidationCache>
