@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{7A475578-AC67-48FC-9339-16605AE46E46}" SchemaVersion="119">
 	<GameParameters>
-		<WorkUnit Name="Default Work Unit" ID="{7A475578-AC67-48FC-9339-16605AE46E46}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{7A475578-AC67-48FC-9339-16605AE46E46}" PersistMode="Standalone">
+			<ChildrenList>
+				<GameParameter Name="Footstep_Speed" ID="{EEA2077F-37D4-4AA1-9BEC-7F68FCC75BBC}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+						<Property Name="Max" Type="Real64" Value="427"/>
+					</PropertyList>
+				</GameParameter>
+			</ChildrenList>
+		</WorkUnit>
 	</GameParameters>
 </WwiseDocument>

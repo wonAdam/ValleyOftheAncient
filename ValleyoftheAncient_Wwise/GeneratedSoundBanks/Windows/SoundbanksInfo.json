@@ -18,7 +18,7 @@
     "Type": "User",
     "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
     "Language": "SFX",
-    "Hash": "{AB9F0343-CD85-AB9E-58D8-B63D74A50185}",
+    "Hash": "{CC2176A8-8FB3-D046-F303-77E5148F3BB0}",
     "ObjectPath": "Init",
     "ShortName": "Init",
     "Path": "Init.bnk",
@@ -88,6 +88,12 @@
       "GUID": "{1329EBEF-A193-472E-A38C-64668B494879}"
      },
      {
+      "Id": "3182548923",
+      "Name": "Footstep_Speed",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Footstep_Speed",
+      "GUID": "{EEA2077F-37D4-4AA1-9BEC-7F68FCC75BBC}"
+     },
+     {
       "Id": "3203397129",
       "Name": "SS_Air_TimeOfDay",
       "ObjectPath": "\\Game Parameters\\Factory Soundseed Air Game Syncs\\SS_Air_TimeOfDay",
@@ -114,21 +120,21 @@
     ],
     "SwitchGroups": [
      {
-      "Id": "2581548564",
-      "Name": "Foosteps_Texture",
-      "ObjectPath": "\\Switches\\Default Work Unit\\Foosteps_Texture",
+      "Id": "3932021394",
+      "Name": "Footsteps_Texture",
+      "ObjectPath": "\\Switches\\Default Work Unit\\Footsteps_Texture",
       "GUID": "{48B9DB9A-DDA1-4B11-B59B-CA864B0B8469}",
       "Switches": [
        {
-        "Id": "3143273520",
-        "Name": "Footsteps_Texture_01",
-        "ObjectPath": "\\Switches\\Default Work Unit\\Foosteps_Texture\\Footsteps_Texture_01",
+        "Id": "1850388778",
+        "Name": "Desert",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Footsteps_Texture\\Desert",
         "GUID": "{5FD8BF1A-94E5-41AD-AA5E-F2960ACD89DB}"
        },
        {
-        "Id": "3143273523",
-        "Name": "Footsteps_Texture_02",
-        "ObjectPath": "\\Switches\\Default Work Unit\\Foosteps_Texture\\Footsteps_Texture_02",
+        "Id": "1936566391",
+        "Name": "DarkWorld",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Footsteps_Texture\\DarkWorld",
         "GUID": "{DD67C586-FED1-4D48-AE6C-B0A2A5F59F4D}"
        }
       ]
@@ -604,7 +610,7 @@
     "Type": "User",
     "GUID": "{06E0C42E-B84B-463D-80C1-55C828A882EB}",
     "Language": "SFX",
-    "Hash": "{48D0FDCB-E37A-F13D-3062-3ADE09F86156}",
+    "Hash": "{A7C81D23-7343-7270-2503-4B7AE6E55A7A}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\SB",
     "ShortName": "SB",
     "Path": "SB.bnk",
@@ -1039,7 +1045,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "3D_Map01_Ambience_01_01.wav",
-      "CachePath": "SFX/3D_Map01_Ambience_01_01_E47D7379.wem"
+      "CachePath": "SFX/3D_Map01_Ambience_01_01_818F3B66.wem"
      },
      {
       "Id": "734751421",
@@ -1254,10 +1260,10 @@
       "Id": "3097540376",
       "Name": "Play_3D_Map01_Ambience",
       "ObjectPath": "\\Events\\Default Work Unit\\Play_Events\\Play_3D_Map01_Ambience",
-      "GUID": "{E71DC2A9-040C-455D-A5CD-23630061009B}",
+      "GUID": "{342FD0EA-F303-46D3-970A-6D25F5919A61}",
       "DurationType": "OneShot",
-      "DurationMin": "5",
-      "DurationMax": "5",
+      "DurationMin": "15",
+      "DurationMax": "15",
       "MediaRefs": [
        {
         "Id": "645986931"
@@ -1271,10 +1277,10 @@
       ]
      },
      {
-      "Id": "1967265705",
-      "Name": "Play_3D_Map02_Ambience",
-      "ObjectPath": "\\Events\\Default Work Unit\\Play_Events\\Play_3D_Map02_Ambience",
-      "GUID": "{865B390A-7B0C-4B4D-BDF1-660CC7FCCDD2}",
+      "Id": "1130970705",
+      "Name": "Play_3D_Map02_Ambience_Crow",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Events\\Play_3D_Map02_Ambience_Crow",
+      "GUID": "{72DC42D1-DB7C-4E56-86BF-223E03C5DCFF}",
       "DurationType": "OneShot",
       "DurationMin": "10",
       "DurationMax": "10",
@@ -1283,11 +1289,22 @@
         "Id": "40562976"
        },
        {
-        "Id": "179606090"
+        "Id": "734751421"
        },
        {
-        "Id": "369564659"
-       },
+        "Id": "996980279"
+       }
+      ]
+     },
+     {
+      "Id": "3900994105",
+      "Name": "Play_3D_Map02_Ambience_Ghost",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Events\\Play_3D_Map02_Ambience_Ghost",
+      "GUID": "{7060C863-A7D9-4B6F-8A07-D2038DFA82BE}",
+      "DurationType": "OneShot",
+      "DurationMin": "10",
+      "DurationMax": "10",
+      "MediaRefs": [
        {
         "Id": "388327730"
        },
@@ -1296,15 +1313,26 @@
        },
        {
         "Id": "699593375"
+       }
+      ]
+     },
+     {
+      "Id": "3235615986",
+      "Name": "Play_3D_Map02_Ambience_Thunder",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Events\\Play_3D_Map02_Ambience_Thunder",
+      "GUID": "{4632FE19-3304-40AA-AA7D-5A3EDACDCD27}",
+      "DurationType": "OneShot",
+      "DurationMin": "10",
+      "DurationMax": "10",
+      "MediaRefs": [
+       {
+        "Id": "179606090"
        },
        {
-        "Id": "734751421"
+        "Id": "369564659"
        },
        {
         "Id": "795906522"
-       },
-       {
-        "Id": "996980279"
        }
       ]
      },
@@ -1381,8 +1409,8 @@
        {
         "SwitchValue": {
          "GroupType": "Switch",
-         "GroupId": "2581548564",
-         "Id": "3143273520",
+         "GroupId": "3932021394",
+         "Id": "1850388778",
          "GUID": "{5FD8BF1A-94E5-41AD-AA5E-F2960ACD89DB}",
          "Default": "true"
         },
@@ -1413,8 +1441,8 @@
        {
         "SwitchValue": {
          "GroupType": "Switch",
-         "GroupId": "2581548564",
-         "Id": "3143273523",
+         "GroupId": "3932021394",
+         "Id": "1936566391",
          "GUID": "{DD67C586-FED1-4D48-AE6C-B0A2A5F59F4D}"
         },
         "MediaRefs": [
@@ -1444,8 +1472,8 @@
        {
         "SwitchValue": {
          "GroupType": "Switch",
-         "GroupId": "2581548564",
-         "Id": "3143273520",
+         "GroupId": "3932021394",
+         "Id": "1850388778",
          "GUID": "{5FD8BF1A-94E5-41AD-AA5E-F2960ACD89DB}",
          "Default": "true"
         },
@@ -1476,8 +1504,8 @@
        {
         "SwitchValue": {
          "GroupType": "Switch",
-         "GroupId": "2581548564",
-         "Id": "3143273523",
+         "GroupId": "3932021394",
+         "Id": "1936566391",
          "GUID": "{DD67C586-FED1-4D48-AE6C-B0A2A5F59F4D}"
         },
         "MediaRefs": [
@@ -1645,23 +1673,31 @@
       ]
      }
     ],
+    "GameParameters": [
+     {
+      "Id": "3182548923",
+      "Name": "Footstep_Speed",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Footstep_Speed",
+      "GUID": "{EEA2077F-37D4-4AA1-9BEC-7F68FCC75BBC}"
+     }
+    ],
     "SwitchGroups": [
      {
-      "Id": "2581548564",
-      "Name": "Foosteps_Texture",
-      "ObjectPath": "\\Switches\\Default Work Unit\\Foosteps_Texture",
+      "Id": "3932021394",
+      "Name": "Footsteps_Texture",
+      "ObjectPath": "\\Switches\\Default Work Unit\\Footsteps_Texture",
       "GUID": "{48B9DB9A-DDA1-4B11-B59B-CA864B0B8469}",
       "Switches": [
        {
-        "Id": "3143273520",
-        "Name": "Footsteps_Texture_01",
-        "ObjectPath": "\\Switches\\Default Work Unit\\Foosteps_Texture\\Footsteps_Texture_01",
+        "Id": "1850388778",
+        "Name": "Desert",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Footsteps_Texture\\Desert",
         "GUID": "{5FD8BF1A-94E5-41AD-AA5E-F2960ACD89DB}"
        },
        {
-        "Id": "3143273523",
-        "Name": "Footsteps_Texture_02",
-        "ObjectPath": "\\Switches\\Default Work Unit\\Foosteps_Texture\\Footsteps_Texture_02",
+        "Id": "1936566391",
+        "Name": "DarkWorld",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Footsteps_Texture\\DarkWorld",
         "GUID": "{DD67C586-FED1-4D48-AE6C-B0A2A5F59F4D}"
        }
       ]
@@ -1669,6 +1705,6 @@
     ]
    }
   ],
-  "FileHash": "{ADFF3B71-7D32-2DB7-ED1A-A1AE05727C48}"
+  "FileHash": "{C6B7CE96-B6DC-B40E-E27B-B908BDCF1589}"
  }
 }

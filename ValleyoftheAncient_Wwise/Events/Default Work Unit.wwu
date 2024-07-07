@@ -49,17 +49,6 @@
 								</Action>
 							</ChildrenList>
 						</Event>
-						<Event Name="Play_3D_Map01_Ambience" ID="{E71DC2A9-040C-455D-A5CD-23630061009B}">
-							<ChildrenList>
-								<Action Name="" ID="{BCC7E427-BCF6-496F-ABAA-22731310F58C}" ShortID="359976116">
-									<ReferenceList>
-										<Reference Name="Target">
-											<ObjectRef Name="3D_Map01_Ambience" ID="{3972DA9D-97AE-4CFC-94AB-2CEE01FF6358}" WorkUnitID="{BE61380D-99B0-4776-A12B-98616A4534E7}"/>
-										</Reference>
-									</ReferenceList>
-								</Action>
-							</ChildrenList>
-						</Event>
 						<Event Name="Play_2D_Map02_Ambience_Loop" ID="{4771711F-BB47-4C07-AE2D-3046CB22BFED}">
 							<ChildrenList>
 								<Action Name="" ID="{B5849E4B-6631-44BF-BF43-456B7596712F}" ShortID="907085960">
@@ -115,17 +104,6 @@
 								</Action>
 							</ChildrenList>
 						</Event>
-						<Event Name="Play_3D_Map02_Ambience" ID="{865B390A-7B0C-4B4D-BDF1-660CC7FCCDD2}">
-							<ChildrenList>
-								<Action Name="" ID="{50790BE0-046E-4FA5-B775-1BB4ED0782EE}" ShortID="140900785">
-									<ReferenceList>
-										<Reference Name="Target">
-											<ObjectRef Name="3D_Map02_Ambience" ID="{EF0467A4-EB53-4BDC-9833-7629BD5888CA}" WorkUnitID="{BE61380D-99B0-4776-A12B-98616A4534E7}"/>
-										</Reference>
-									</ReferenceList>
-								</Action>
-							</ChildrenList>
-						</Event>
 						<Event Name="Play_Fire_Loop" ID="{66C314EC-925C-428E-8B1E-9CA9745CF899}">
 							<ChildrenList>
 								<Action Name="" ID="{184116B1-82D1-4F68-9ACF-95CAE7F27A30}" ShortID="988984824">
@@ -165,6 +143,50 @@
 									<ReferenceList>
 										<Reference Name="Target">
 											<ObjectRef Name="S_AnimationFadeOut_02" ID="{B9D8FE08-51FF-4BCE-A6DA-EAD15097ECCA}" WorkUnitID="{BE61380D-99B0-4776-A12B-98616A4534E7}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_3D_Map02_Ambience_Thunder" ID="{4632FE19-3304-40AA-AA7D-5A3EDACDCD27}">
+							<ChildrenList>
+								<Action Name="" ID="{FA4F0815-E7CE-4B0D-B2C9-FE16039063CE}" ShortID="318004136">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="3D_Map02_Ambience_Thunder" ID="{EF0467A4-EB53-4BDC-9833-7629BD5888CA}" WorkUnitID="{BE61380D-99B0-4776-A12B-98616A4534E7}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_3D_Map01_Ambience" ID="{342FD0EA-F303-46D3-970A-6D25F5919A61}">
+							<ChildrenList>
+								<Action Name="" ID="{3FBE96E7-7B6E-46B5-A56D-9E7C57BEC7D3}" ShortID="141182825">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="3D_Map01_Ambience" ID="{3972DA9D-97AE-4CFC-94AB-2CEE01FF6358}" WorkUnitID="{BE61380D-99B0-4776-A12B-98616A4534E7}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_3D_Map02_Ambience_Crow" ID="{72DC42D1-DB7C-4E56-86BF-223E03C5DCFF}">
+							<ChildrenList>
+								<Action Name="" ID="{7480289B-5062-4D43-9D7E-0288EA2AEE2D}" ShortID="491239259">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="3D_Map02_Ambience_Crow" ID="{3E5DF6CA-0DFF-40B8-AEF2-0F3A5DB16760}" WorkUnitID="{BE61380D-99B0-4776-A12B-98616A4534E7}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_3D_Map02_Ambience_Ghost" ID="{7060C863-A7D9-4B6F-8A07-D2038DFA82BE}">
+							<ChildrenList>
+								<Action Name="" ID="{0D303FD3-19D2-4E73-A108-DF791168939F}" ShortID="834721042">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="3D_Map02_Ambience_Ghost" ID="{AA72AE43-4412-47D0-A974-91D342C4FE9F}" WorkUnitID="{BE61380D-99B0-4776-A12B-98616A4534E7}"/>
 										</Reference>
 									</ReferenceList>
 								</Action>

@@ -3,10 +3,10 @@
 	<Switches>
 		<WorkUnit Name="Default Work Unit" ID="{EBA1588F-0446-4038-AFEC-06962A306022}" PersistMode="Standalone">
 			<ChildrenList>
-				<SwitchGroup Name="Foosteps_Texture" ID="{48B9DB9A-DDA1-4B11-B59B-CA864B0B8469}">
+				<SwitchGroup Name="Footsteps_Texture" ID="{48B9DB9A-DDA1-4B11-B59B-CA864B0B8469}">
 					<ChildrenList>
-						<Switch Name="Footsteps_Texture_01" ID="{5FD8BF1A-94E5-41AD-AA5E-F2960ACD89DB}"/>
-						<Switch Name="Footsteps_Texture_02" ID="{DD67C586-FED1-4D48-AE6C-B0A2A5F59F4D}"/>
+						<Switch Name="Desert" ID="{5FD8BF1A-94E5-41AD-AA5E-F2960ACD89DB}"/>
+						<Switch Name="DarkWorld" ID="{DD67C586-FED1-4D48-AE6C-B0A2A5F59F4D}"/>
 					</ChildrenList>
 				</SwitchGroup>
 			</ChildrenList>

@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
     "Language": "SFX",
-    "Hash": "{AB9F0343-CD85-AB9E-58D8-B63D74A50185}",
+    "Hash": "{CC2176A8-8FB3-D046-F303-77E5148F3BB0}",
     "ObjectPath": "Init",
     "ShortName": "Init",
     "Path": "Init.bnk",
@@ -80,6 +80,12 @@
       "GUID": "{1329EBEF-A193-472E-A38C-64668B494879}"
      },
      {
+      "Id": "3182548923",
+      "Name": "Footstep_Speed",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Footstep_Speed",
+      "GUID": "{EEA2077F-37D4-4AA1-9BEC-7F68FCC75BBC}"
+     },
+     {
       "Id": "3203397129",
       "Name": "SS_Air_TimeOfDay",
       "ObjectPath": "\\Game Parameters\\Factory Soundseed Air Game Syncs\\SS_Air_TimeOfDay",
@@ -106,21 +112,21 @@
     ],
     "SwitchGroups": [
      {
-      "Id": "2581548564",
-      "Name": "Foosteps_Texture",
-      "ObjectPath": "\\Switches\\Default Work Unit\\Foosteps_Texture",
+      "Id": "3932021394",
+      "Name": "Footsteps_Texture",
+      "ObjectPath": "\\Switches\\Default Work Unit\\Footsteps_Texture",
       "GUID": "{48B9DB9A-DDA1-4B11-B59B-CA864B0B8469}",
       "Switches": [
        {
-        "Id": "3143273520",
-        "Name": "Footsteps_Texture_01",
-        "ObjectPath": "\\Switches\\Default Work Unit\\Foosteps_Texture\\Footsteps_Texture_01",
+        "Id": "1850388778",
+        "Name": "Desert",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Footsteps_Texture\\Desert",
         "GUID": "{5FD8BF1A-94E5-41AD-AA5E-F2960ACD89DB}"
        },
        {
-        "Id": "3143273523",
-        "Name": "Footsteps_Texture_02",
-        "ObjectPath": "\\Switches\\Default Work Unit\\Foosteps_Texture\\Footsteps_Texture_02",
+        "Id": "1936566391",
+        "Name": "DarkWorld",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Footsteps_Texture\\DarkWorld",
         "GUID": "{DD67C586-FED1-4D48-AE6C-B0A2A5F59F4D}"
        }
       ]
@@ -592,6 +598,6 @@
     ]
    }
   ],
-  "FileHash": "{B4DF44C2-C757-4EB8-2B91-2BEFEE90317F}"
+  "FileHash": "{511A1B0A-5142-5BFD-3CA8-EB8018B8520F}"
  }
 }
