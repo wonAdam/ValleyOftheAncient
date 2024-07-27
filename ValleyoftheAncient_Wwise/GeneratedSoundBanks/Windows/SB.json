@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{06E0C42E-B84B-463D-80C1-55C828A882EB}",
     "Language": "SFX",
-    "Hash": "{A7C81D23-7343-7270-2503-4B7AE6E55A7A}",
+    "Hash": "{7B095F21-B533-9742-B84F-CC24E03E8AF9}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\SB",
     "ShortName": "SB",
     "Path": "SB.bnk",
@@ -133,15 +133,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "Armor Foley_05.wav",
-      "CachePath": "SFX/Armor Foley_05_818F3B66.wem"
-     },
-     {
-      "Id": "200569020",
-      "Language": "SFX",
-      "Streaming": "false",
-      "Location": "Memory",
-      "ShortName": "Skill_Cast_Loop_03.wav",
-      "CachePath": "SFX/Skill_Cast_Loop_03_818F3B66.wem"
+      "CachePath": "SFX/Armor Foley_05_1B5F2174.wem"
      },
      {
       "Id": "219880325",
@@ -165,7 +157,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "Armor Foley_01.wav",
-      "CachePath": "SFX/Armor Foley_01_818F3B66.wem"
+      "CachePath": "SFX/Armor Foley_01_C991E1F5.wem"
      },
      {
       "Id": "243192686",
@@ -229,7 +221,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "Armor Foley_04.wav",
-      "CachePath": "SFX/Armor Foley_04_818F3B66.wem"
+      "CachePath": "SFX/Armor Foley_04_F637485C.wem"
      },
      {
       "Id": "369564659",
@@ -288,14 +280,6 @@
       "CachePath": "SFX/Footstep_Texture01_02_818F3B66.wem"
      },
      {
-      "Id": "445753361",
-      "Language": "SFX",
-      "Streaming": "false",
-      "Location": "Memory",
-      "ShortName": "Skill_Cast_Loop_01.wav",
-      "CachePath": "SFX/Skill_Cast_Loop_01_818F3B66.wem"
-     },
-     {
       "Id": "447012044",
       "Language": "SFX",
       "Streaming": "false",
@@ -309,7 +293,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "Armor Foley_02.wav",
-      "CachePath": "SFX/Armor Foley_02_818F3B66.wem"
+      "CachePath": "SFX/Armor Foley_02_40FD3CF5.wem"
      },
      {
       "Id": "470734958",
@@ -365,7 +349,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "S_AnimationFadeOut_02.wav",
-      "CachePath": "SFX/S_AnimationFadeOut_02_818F3B66.wem"
+      "CachePath": "SFX/S_AnimationFadeOut_02_983EE4E9.wem"
      },
      {
       "Id": "582557018",
@@ -405,7 +389,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "Armor Foley_03.wav",
-      "CachePath": "SFX/Armor Foley_03_818F3B66.wem"
+      "CachePath": "SFX/Armor Foley_03_580F738D.wem"
      },
      {
       "Id": "680013032",
@@ -536,6 +520,14 @@
       "CachePath": "SFX/3D_Map01_Ambience_01_03_818F3B66.wem"
      },
      {
+      "Id": "961782400",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Skill_Cast_Loop_03.wav",
+      "CachePath": "SFX/Skill_Cast_Loop_03_D1861BF8.wem"
+     },
+     {
       "Id": "964698149",
       "Language": "SFX",
       "Streaming": "false",
@@ -552,20 +544,28 @@
       "CachePath": "SFX/3D_Map02_Ambience_Loop_05_818F3B66.wem"
      },
      {
+      "Id": "997261430",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Skill_Cast_Loop_02.wav",
+      "CachePath": "SFX/Skill_Cast_Loop_02_160B8FA5.wem"
+     },
+     {
+      "Id": "999858282",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Skill_Cast_Loop_01.wav",
+      "CachePath": "SFX/Skill_Cast_Loop_01_3CA15333.wem"
+     },
+     {
       "Id": "1006875835",
       "Language": "SFX",
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "Footstep_Texture02_03.wav",
       "CachePath": "SFX/Footstep_Texture02_03_818F3B66.wem"
-     },
-     {
-      "Id": "1016901836",
-      "Language": "SFX",
-      "Streaming": "false",
-      "Location": "Memory",
-      "ShortName": "Skill_Cast_Loop_02.wav",
-      "CachePath": "SFX/Skill_Cast_Loop_02_818F3B66.wem"
      },
      {
       "Id": "1026784446",
@@ -661,9 +661,8 @@
       "Name": "Play_3D_Map01_Ambience",
       "ObjectPath": "\\Events\\Default Work Unit\\Play_Events\\Play_3D_Map01_Ambience",
       "GUID": "{342FD0EA-F303-46D3-970A-6D25F5919A61}",
-      "DurationType": "OneShot",
-      "DurationMin": "15",
-      "DurationMax": "15",
+      "MaxAttenuation": "100",
+      "DurationType": "Infinite",
       "MediaRefs": [
        {
         "Id": "645986931"
@@ -681,9 +680,8 @@
       "Name": "Play_3D_Map02_Ambience_Crow",
       "ObjectPath": "\\Events\\Default Work Unit\\Play_Events\\Play_3D_Map02_Ambience_Crow",
       "GUID": "{72DC42D1-DB7C-4E56-86BF-223E03C5DCFF}",
-      "DurationType": "OneShot",
-      "DurationMin": "10",
-      "DurationMax": "10",
+      "MaxAttenuation": "100",
+      "DurationType": "Infinite",
       "MediaRefs": [
        {
         "Id": "40562976"
@@ -701,9 +699,8 @@
       "Name": "Play_3D_Map02_Ambience_Ghost",
       "ObjectPath": "\\Events\\Default Work Unit\\Play_Events\\Play_3D_Map02_Ambience_Ghost",
       "GUID": "{7060C863-A7D9-4B6F-8A07-D2038DFA82BE}",
-      "DurationType": "OneShot",
-      "DurationMin": "10",
-      "DurationMax": "10",
+      "MaxAttenuation": "100",
+      "DurationType": "Infinite",
       "MediaRefs": [
        {
         "Id": "388327730"
@@ -721,9 +718,8 @@
       "Name": "Play_3D_Map02_Ambience_Thunder",
       "ObjectPath": "\\Events\\Default Work Unit\\Play_Events\\Play_3D_Map02_Ambience_Thunder",
       "GUID": "{4632FE19-3304-40AA-AA7D-5A3EDACDCD27}",
-      "DurationType": "OneShot",
-      "DurationMin": "10",
-      "DurationMax": "10",
+      "MaxAttenuation": "100",
+      "DurationType": "Infinite",
       "MediaRefs": [
        {
         "Id": "179606090"
@@ -741,6 +737,7 @@
       "Name": "Play_Fire_Loop",
       "ObjectPath": "\\Events\\Default Work Unit\\Play_Events\\Play_Fire_Loop",
       "GUID": "{66C314EC-925C-428E-8B1E-9CA9745CF899}",
+      "MaxAttenuation": "700",
       "DurationType": "Infinite",
       "MediaRefs": [
        {
@@ -754,8 +751,8 @@
       "ObjectPath": "\\Events\\Default Work Unit\\Play_Events\\Play_PC_Armor",
       "GUID": "{55D7A62B-6634-42F8-A90A-4EF87BCD551E}",
       "DurationType": "OneShot",
-      "DurationMin": "0.9386683",
-      "DurationMax": "1.116271",
+      "DurationMin": "0.45850202",
+      "DurationMax": "0.59977925",
       "MediaRefs": [
        {
         "Id": "199155045"
@@ -940,8 +937,8 @@
       "ObjectPath": "\\Events\\Default Work Unit\\Play_Events\\Play_PC_Skill_Cast",
       "GUID": "{DE71FF76-D439-4218-883F-68980499D0CF}",
       "DurationType": "OneShot",
-      "DurationMin": "5.514583",
-      "DurationMax": "5.514583",
+      "DurationMin": "6",
+      "DurationMax": "6",
       "MediaRefs": [
        {
         "Id": "506833056"
@@ -950,25 +947,16 @@
         "Id": "781750763"
        },
        {
+        "Id": "961782400"
+       },
+       {
+        "Id": "997261430"
+       },
+       {
+        "Id": "999858282"
+       },
+       {
         "Id": "1026784446"
-       }
-      ]
-     },
-     {
-      "Id": "1025555352",
-      "Name": "Play_PC_Skill_Cast_Loop",
-      "ObjectPath": "\\Events\\Default Work Unit\\Play_Events\\Play_PC_Skill_Cast_Loop",
-      "GUID": "{8BE01D38-5FC5-4CE6-9A0F-9DC3DE783AB7}",
-      "DurationType": "Infinite",
-      "MediaRefs": [
-       {
-        "Id": "200569020"
-       },
-       {
-        "Id": "445753361"
-       },
-       {
-        "Id": "1016901836"
        }
       ]
      },
@@ -1038,8 +1026,8 @@
       "ObjectPath": "\\Events\\Default Work Unit\\Play_Events\\Play_S_AnimationFadeOut_02",
       "GUID": "{0A6DCC7A-461A-49DB-BF2B-1BAD56BA7670}",
       "DurationType": "OneShot",
-      "DurationMin": "10",
-      "DurationMax": "10",
+      "DurationMin": "9.5",
+      "DurationMax": "9.5",
       "MediaRefs": [
        {
         "Id": "566118984"
@@ -1065,6 +1053,7 @@
       "Name": "Play_Teleport_Loop",
       "ObjectPath": "\\Events\\Default Work Unit\\Play_Events\\Play_Teleport_Loop",
       "GUID": "{180A5464-CF1D-463C-8B00-0D7E15653275}",
+      "MaxAttenuation": "1000",
       "DurationType": "Infinite",
       "MediaRefs": [
        {
@@ -1105,6 +1094,6 @@
     ]
    }
   ],
-  "FileHash": "{A641C06E-2870-50DB-F76B-06D0CD8AB4E8}"
+  "FileHash": "{A56E1D4B-A0C0-84E7-2A57-46D54876A538}"
  }
 }

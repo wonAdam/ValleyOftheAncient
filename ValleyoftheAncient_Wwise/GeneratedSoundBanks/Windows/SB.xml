@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="150">
 	<SoundBanks>
-		<SoundBank Id="1584861542" Type="User" GUID="{06E0C42E-B84B-463D-80C1-55C828A882EB}" Language="SFX" Hash="{A7C81D23-7343-7270-2503-4B7AE6E55A7A}">
+		<SoundBank Id="1584861542" Type="User" GUID="{06E0C42E-B84B-463D-80C1-55C828A882EB}" Language="SFX" Hash="{7B095F21-B533-9742-B84F-CC24E03E8AF9}">
 			<ObjectPath>\SoundBanks\Default Work Unit\SB</ObjectPath>
 			<ShortName>SB</ShortName>
 			<Path>SB.bnk</Path>
@@ -64,11 +64,7 @@
 				</File>
 				<File Id="199155045" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Armor Foley_05.wav</ShortName>
-					<CachePath>SFX/Armor Foley_05_818F3B66.wem</CachePath>
-				</File>
-				<File Id="200569020" Language="SFX" Streaming="false" Location="Memory">
-					<ShortName>Skill_Cast_Loop_03.wav</ShortName>
-					<CachePath>SFX/Skill_Cast_Loop_03_818F3B66.wem</CachePath>
+					<CachePath>SFX/Armor Foley_05_1B5F2174.wem</CachePath>
 				</File>
 				<File Id="219880325" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Skill_Projectile_01.wav</ShortName>
@@ -80,7 +76,7 @@
 				</File>
 				<File Id="241388928" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Armor Foley_01.wav</ShortName>
-					<CachePath>SFX/Armor Foley_01_818F3B66.wem</CachePath>
+					<CachePath>SFX/Armor Foley_01_C991E1F5.wem</CachePath>
 				</File>
 				<File Id="243192686" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footstep_Texture01_07.wav</ShortName>
@@ -112,7 +108,7 @@
 				</File>
 				<File Id="365273511" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Armor Foley_04.wav</ShortName>
-					<CachePath>SFX/Armor Foley_04_818F3B66.wem</CachePath>
+					<CachePath>SFX/Armor Foley_04_F637485C.wem</CachePath>
 				</File>
 				<File Id="369564659" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>3D_Map02_Ambience_Loop_02.wav</ShortName>
@@ -142,17 +138,13 @@
 					<ShortName>Footstep_Texture01_02.wav</ShortName>
 					<CachePath>SFX/Footstep_Texture01_02_818F3B66.wem</CachePath>
 				</File>
-				<File Id="445753361" Language="SFX" Streaming="false" Location="Memory">
-					<ShortName>Skill_Cast_Loop_01.wav</ShortName>
-					<CachePath>SFX/Skill_Cast_Loop_01_818F3B66.wem</CachePath>
-				</File>
 				<File Id="447012044" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>2D_Map02_Ambience_Loop_01_03.wav</ShortName>
 					<CachePath>SFX/2D_Map02_Ambience_Loop_01_03_818F3B66.wem</CachePath>
 				</File>
 				<File Id="454550250" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Armor Foley_02.wav</ShortName>
-					<CachePath>SFX/Armor Foley_02_818F3B66.wem</CachePath>
+					<CachePath>SFX/Armor Foley_02_40FD3CF5.wem</CachePath>
 				</File>
 				<File Id="470734958" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footstep_Boots01_06.wav</ShortName>
@@ -180,7 +172,7 @@
 				</File>
 				<File Id="566118984" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>S_AnimationFadeOut_02.wav</ShortName>
-					<CachePath>SFX/S_AnimationFadeOut_02_818F3B66.wem</CachePath>
+					<CachePath>SFX/S_AnimationFadeOut_02_983EE4E9.wem</CachePath>
 				</File>
 				<File Id="582557018" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Skill_Shot_03.wav</ShortName>
@@ -200,7 +192,7 @@
 				</File>
 				<File Id="664944771" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Armor Foley_03.wav</ShortName>
-					<CachePath>SFX/Armor Foley_03_818F3B66.wem</CachePath>
+					<CachePath>SFX/Armor Foley_03_580F738D.wem</CachePath>
 				</File>
 				<File Id="680013032" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>2D_Map02_Ambience_Loop_01_02.wav</ShortName>
@@ -266,6 +258,10 @@
 					<ShortName>3D_Map01_Ambience_01_03.wav</ShortName>
 					<CachePath>SFX/3D_Map01_Ambience_01_03_818F3B66.wem</CachePath>
 				</File>
+				<File Id="961782400" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Skill_Cast_Loop_03.wav</ShortName>
+					<CachePath>SFX/Skill_Cast_Loop_03_D1861BF8.wem</CachePath>
+				</File>
 				<File Id="964698149" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Skill_Hit_ 01.wav</ShortName>
 					<CachePath>SFX/Skill_Hit_ 01_818F3B66.wem</CachePath>
@@ -274,13 +270,17 @@
 					<ShortName>3D_Map02_Ambience_Loop_05.wav</ShortName>
 					<CachePath>SFX/3D_Map02_Ambience_Loop_05_818F3B66.wem</CachePath>
 				</File>
+				<File Id="997261430" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Skill_Cast_Loop_02.wav</ShortName>
+					<CachePath>SFX/Skill_Cast_Loop_02_160B8FA5.wem</CachePath>
+				</File>
+				<File Id="999858282" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Skill_Cast_Loop_01.wav</ShortName>
+					<CachePath>SFX/Skill_Cast_Loop_01_3CA15333.wem</CachePath>
+				</File>
 				<File Id="1006875835" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footstep_Texture02_03.wav</ShortName>
 					<CachePath>SFX/Footstep_Texture02_03_818F3B66.wem</CachePath>
-				</File>
-				<File Id="1016901836" Language="SFX" Streaming="false" Location="Memory">
-					<ShortName>Skill_Cast_Loop_02.wav</ShortName>
-					<CachePath>SFX/Skill_Cast_Loop_02_818F3B66.wem</CachePath>
 				</File>
 				<File Id="1026784446" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Skill_Cast_03.wav</ShortName>
@@ -319,40 +319,40 @@
 						<MediaRef Id="896642150"/>
 					</MediaRefs>
 				</Event>
-				<Event Id="3097540376" Name="Play_3D_Map01_Ambience" ObjectPath="\Events\Default Work Unit\Play_Events\Play_3D_Map01_Ambience" GUID="{342FD0EA-F303-46D3-970A-6D25F5919A61}" DurationType="OneShot" DurationMin="15" DurationMax="15">
+				<Event Id="3097540376" Name="Play_3D_Map01_Ambience" ObjectPath="\Events\Default Work Unit\Play_Events\Play_3D_Map01_Ambience" GUID="{342FD0EA-F303-46D3-970A-6D25F5919A61}" MaxAttenuation="100" DurationType="Infinite">
 					<MediaRefs>
 						<MediaRef Id="645986931"/>
 						<MediaRef Id="726288091"/>
 						<MediaRef Id="954015879"/>
 					</MediaRefs>
 				</Event>
-				<Event Id="1130970705" Name="Play_3D_Map02_Ambience_Crow" ObjectPath="\Events\Default Work Unit\Play_Events\Play_3D_Map02_Ambience_Crow" GUID="{72DC42D1-DB7C-4E56-86BF-223E03C5DCFF}" DurationType="OneShot" DurationMin="10" DurationMax="10">
+				<Event Id="1130970705" Name="Play_3D_Map02_Ambience_Crow" ObjectPath="\Events\Default Work Unit\Play_Events\Play_3D_Map02_Ambience_Crow" GUID="{72DC42D1-DB7C-4E56-86BF-223E03C5DCFF}" MaxAttenuation="100" DurationType="Infinite">
 					<MediaRefs>
 						<MediaRef Id="40562976"/>
 						<MediaRef Id="734751421"/>
 						<MediaRef Id="996980279"/>
 					</MediaRefs>
 				</Event>
-				<Event Id="3900994105" Name="Play_3D_Map02_Ambience_Ghost" ObjectPath="\Events\Default Work Unit\Play_Events\Play_3D_Map02_Ambience_Ghost" GUID="{7060C863-A7D9-4B6F-8A07-D2038DFA82BE}" DurationType="OneShot" DurationMin="10" DurationMax="10">
+				<Event Id="3900994105" Name="Play_3D_Map02_Ambience_Ghost" ObjectPath="\Events\Default Work Unit\Play_Events\Play_3D_Map02_Ambience_Ghost" GUID="{7060C863-A7D9-4B6F-8A07-D2038DFA82BE}" MaxAttenuation="100" DurationType="Infinite">
 					<MediaRefs>
 						<MediaRef Id="388327730"/>
 						<MediaRef Id="390593327"/>
 						<MediaRef Id="699593375"/>
 					</MediaRefs>
 				</Event>
-				<Event Id="3235615986" Name="Play_3D_Map02_Ambience_Thunder" ObjectPath="\Events\Default Work Unit\Play_Events\Play_3D_Map02_Ambience_Thunder" GUID="{4632FE19-3304-40AA-AA7D-5A3EDACDCD27}" DurationType="OneShot" DurationMin="10" DurationMax="10">
+				<Event Id="3235615986" Name="Play_3D_Map02_Ambience_Thunder" ObjectPath="\Events\Default Work Unit\Play_Events\Play_3D_Map02_Ambience_Thunder" GUID="{4632FE19-3304-40AA-AA7D-5A3EDACDCD27}" MaxAttenuation="100" DurationType="Infinite">
 					<MediaRefs>
 						<MediaRef Id="179606090"/>
 						<MediaRef Id="369564659"/>
 						<MediaRef Id="795906522"/>
 					</MediaRefs>
 				</Event>
-				<Event Id="1779335" Name="Play_Fire_Loop" ObjectPath="\Events\Default Work Unit\Play_Events\Play_Fire_Loop" GUID="{66C314EC-925C-428E-8B1E-9CA9745CF899}" DurationType="Infinite">
+				<Event Id="1779335" Name="Play_Fire_Loop" ObjectPath="\Events\Default Work Unit\Play_Events\Play_Fire_Loop" GUID="{66C314EC-925C-428E-8B1E-9CA9745CF899}" MaxAttenuation="700" DurationType="Infinite">
 					<MediaRefs>
 						<MediaRef Id="70996195"/>
 					</MediaRefs>
 				</Event>
-				<Event Id="3310393073" Name="Play_PC_Armor" ObjectPath="\Events\Default Work Unit\Play_Events\Play_PC_Armor" GUID="{55D7A62B-6634-42F8-A90A-4EF87BCD551E}" DurationType="OneShot" DurationMin="0.9386683" DurationMax="1.116271">
+				<Event Id="3310393073" Name="Play_PC_Armor" ObjectPath="\Events\Default Work Unit\Play_Events\Play_PC_Armor" GUID="{55D7A62B-6634-42F8-A90A-4EF87BCD551E}" DurationType="OneShot" DurationMin="0.45850202" DurationMax="0.59977925">
 					<MediaRefs>
 						<MediaRef Id="199155045"/>
 						<MediaRef Id="241388928"/>
@@ -422,18 +422,14 @@
 						</SwitchContainer>
 					</SwitchContainers>
 				</Event>
-				<Event Id="3045213307" Name="Play_PC_Skill_Cast" ObjectPath="\Events\Default Work Unit\Play_Events\Play_PC_Skill_Cast" GUID="{DE71FF76-D439-4218-883F-68980499D0CF}" DurationType="OneShot" DurationMin="5.514583" DurationMax="5.514583">
+				<Event Id="3045213307" Name="Play_PC_Skill_Cast" ObjectPath="\Events\Default Work Unit\Play_Events\Play_PC_Skill_Cast" GUID="{DE71FF76-D439-4218-883F-68980499D0CF}" DurationType="OneShot" DurationMin="6" DurationMax="6">
 					<MediaRefs>
 						<MediaRef Id="506833056"/>
 						<MediaRef Id="781750763"/>
+						<MediaRef Id="961782400"/>
+						<MediaRef Id="997261430"/>
+						<MediaRef Id="999858282"/>
 						<MediaRef Id="1026784446"/>
-					</MediaRefs>
-				</Event>
-				<Event Id="1025555352" Name="Play_PC_Skill_Cast_Loop" ObjectPath="\Events\Default Work Unit\Play_Events\Play_PC_Skill_Cast_Loop" GUID="{8BE01D38-5FC5-4CE6-9A0F-9DC3DE783AB7}" DurationType="Infinite">
-					<MediaRefs>
-						<MediaRef Id="200569020"/>
-						<MediaRef Id="445753361"/>
-						<MediaRef Id="1016901836"/>
 					</MediaRefs>
 				</Event>
 				<Event Id="606933137" Name="Play_PC_Skill_Hit" ObjectPath="\Events\Default Work Unit\Play_Events\Play_PC_Skill_Hit" GUID="{016B3D46-908E-4F3E-93C1-DF71845D01AF}" DurationType="OneShot" DurationMin="5" DurationMax="5">
@@ -457,7 +453,7 @@
 						<MediaRef Id="582557018"/>
 					</MediaRefs>
 				</Event>
-				<Event Id="717465561" Name="Play_S_AnimationFadeOut_02" ObjectPath="\Events\Default Work Unit\Play_Events\Play_S_AnimationFadeOut_02" GUID="{0A6DCC7A-461A-49DB-BF2B-1BAD56BA7670}" DurationType="OneShot" DurationMin="10" DurationMax="10">
+				<Event Id="717465561" Name="Play_S_AnimationFadeOut_02" ObjectPath="\Events\Default Work Unit\Play_Events\Play_S_AnimationFadeOut_02" GUID="{0A6DCC7A-461A-49DB-BF2B-1BAD56BA7670}" DurationType="OneShot" DurationMin="9.5" DurationMax="9.5">
 					<MediaRefs>
 						<MediaRef Id="566118984"/>
 					</MediaRefs>
@@ -467,7 +463,7 @@
 						<MediaRef Id="357190279"/>
 					</MediaRefs>
 				</Event>
-				<Event Id="4098890576" Name="Play_Teleport_Loop" ObjectPath="\Events\Default Work Unit\Play_Events\Play_Teleport_Loop" GUID="{180A5464-CF1D-463C-8B00-0D7E15653275}" DurationType="Infinite">
+				<Event Id="4098890576" Name="Play_Teleport_Loop" ObjectPath="\Events\Default Work Unit\Play_Events\Play_Teleport_Loop" GUID="{180A5464-CF1D-463C-8B00-0D7E15653275}" MaxAttenuation="1000" DurationType="Infinite">
 					<MediaRefs>
 						<MediaRef Id="722814120"/>
 					</MediaRefs>
@@ -486,5 +482,5 @@
 			</SwitchGroups>
 		</SoundBank>
 	</SoundBanks>
-	<FileHash>{47D2E294-C6EC-368C-5604-57A9498EE45A}</FileHash>
+	<FileHash>{CB3211F8-6E78-C4CD-A7DF-3AC445192FF5}</FileHash>
 </SoundBanksInfo>

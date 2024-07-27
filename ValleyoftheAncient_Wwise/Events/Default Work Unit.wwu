@@ -87,7 +87,7 @@
 								<Action Name="" ID="{23005E71-2E8D-48B6-9B51-FEC89681B14F}" ShortID="79694532">
 									<ReferenceList>
 										<Reference Name="Target">
-											<ObjectRef Name="PC_Skill_Cast" ID="{C48C9EFE-A8A7-405A-8D62-BBF055BEEC3A}" WorkUnitID="{BE61380D-99B0-4776-A12B-98616A4534E7}"/>
+											<ObjectRef Name="PC_Skill_Cast_to_Loop" ID="{893891C3-F447-462E-B49C-F312DACBA228}" WorkUnitID="{BE61380D-99B0-4776-A12B-98616A4534E7}"/>
 										</Reference>
 									</ReferenceList>
 								</Action>
@@ -126,17 +126,6 @@
 								</Action>
 							</ChildrenList>
 						</Event>
-						<Event Name="Play_PC_Skill_Cast_Loop" ID="{8BE01D38-5FC5-4CE6-9A0F-9DC3DE783AB7}">
-							<ChildrenList>
-								<Action Name="" ID="{A9FF37DA-E38C-4AB4-B0C4-EA2E7C6351D9}" ShortID="845593693">
-									<ReferenceList>
-										<Reference Name="Target">
-											<ObjectRef Name="PC_Skill_Cast_Loop" ID="{6A811217-BEC1-4308-90CF-4B38945C8B4C}" WorkUnitID="{BE61380D-99B0-4776-A12B-98616A4534E7}"/>
-										</Reference>
-									</ReferenceList>
-								</Action>
-							</ChildrenList>
-						</Event>
 						<Event Name="Play_S_AnimationFadeOut_02" ID="{0A6DCC7A-461A-49DB-BF2B-1BAD56BA7670}">
 							<ChildrenList>
 								<Action Name="" ID="{B3D449EB-A1CE-4E31-896B-202F3ADEE982}" ShortID="698614971">
@@ -153,7 +142,7 @@
 								<Action Name="" ID="{FA4F0815-E7CE-4B0D-B2C9-FE16039063CE}" ShortID="318004136">
 									<ReferenceList>
 										<Reference Name="Target">
-											<ObjectRef Name="3D_Map02_Ambience_Thunder" ID="{EF0467A4-EB53-4BDC-9833-7629BD5888CA}" WorkUnitID="{BE61380D-99B0-4776-A12B-98616A4534E7}"/>
+											<ObjectRef Name="3D_Map02_Ambience_Thunder" ID="{8BDA438C-BC3A-4B21-B311-3603D879DDC0}" WorkUnitID="{BE61380D-99B0-4776-A12B-98616A4534E7}"/>
 										</Reference>
 									</ReferenceList>
 								</Action>
@@ -175,7 +164,7 @@
 								<Action Name="" ID="{7480289B-5062-4D43-9D7E-0288EA2AEE2D}" ShortID="491239259">
 									<ReferenceList>
 										<Reference Name="Target">
-											<ObjectRef Name="3D_Map02_Ambience_Crow" ID="{3E5DF6CA-0DFF-40B8-AEF2-0F3A5DB16760}" WorkUnitID="{BE61380D-99B0-4776-A12B-98616A4534E7}"/>
+											<ObjectRef Name="3D_Map02_Ambience_Crow" ID="{51D97CAB-5539-4627-BBD5-A9BB13CE8712}" WorkUnitID="{BE61380D-99B0-4776-A12B-98616A4534E7}"/>
 										</Reference>
 									</ReferenceList>
 								</Action>
@@ -186,7 +175,7 @@
 								<Action Name="" ID="{0D303FD3-19D2-4E73-A108-DF791168939F}" ShortID="834721042">
 									<ReferenceList>
 										<Reference Name="Target">
-											<ObjectRef Name="3D_Map02_Ambience_Ghost" ID="{AA72AE43-4412-47D0-A974-91D342C4FE9F}" WorkUnitID="{BE61380D-99B0-4776-A12B-98616A4534E7}"/>
+											<ObjectRef Name="3D_Map02_Ambience_Ghost" ID="{88AADB9F-17D7-49E5-9C3D-E7F62BE491BF}" WorkUnitID="{BE61380D-99B0-4776-A12B-98616A4534E7}"/>
 										</Reference>
 									</ReferenceList>
 								</Action>
